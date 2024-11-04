@@ -4,5 +4,7 @@ joblib==1.2.0
 pandas==1.5.3
 Werkzeug==2.2.3
 numpy==1.23.5
+scikit-learn==1.0.2
+
 
 
