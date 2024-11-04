@@ -1,4 +1,6 @@
-Flask==2.1.1
+Flask==2.2.3
 Flask-CORS==3.0.10
 joblib==1.2.0
 pandas==1.5.3
+Werkzeug==2.2.3
+
